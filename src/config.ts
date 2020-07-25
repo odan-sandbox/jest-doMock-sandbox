@@ -1,6 +1,6 @@
 const config = {
-  a: 10
-}
+  a: 10,
+};
 
 export function getConfig() {
   return config;
